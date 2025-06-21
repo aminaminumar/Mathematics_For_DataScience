@@ -90,6 +90,6 @@ using two steps
 2. count the number of heads or tails. 
 you will notice that the probability is close to 0.5
 A good result of $P(A)$ is:
-$$P(A) \approx \frac{N_A}{N}$$
+- $$P(A) \approx \frac{N_A}{N}$$
 i.e the more you perform the simulation the accurate the result
 
